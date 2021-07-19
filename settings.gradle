@@ -1,0 +1,2 @@
+rootProject.name = "onlinemusicappclient"
+include ':app'
